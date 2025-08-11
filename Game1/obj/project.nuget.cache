@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "d541+NyUKxY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\RiderProjects\\Game1\\Game1\\Game1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ee-nexus.g3stiona.com:8081/nexus/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source.",
+      "projectPath": "C:\\Users\\Administrador\\RiderProjects\\Game1\\Game1\\Game1.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Administrador\\RiderProjects\\Game1\\Game1\\Game1.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
